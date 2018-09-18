@@ -1,5 +1,5 @@
 # **Training Repo Sept. 18**
-...
+
 
 Git Logo:
 ![gitlogo]
