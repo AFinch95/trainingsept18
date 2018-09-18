@@ -1,9 +1,11 @@
-# Training Repo Sept. 18
+# **Training Repo Sept. 18**
+...
 
 Git Logo:
 ![gitlogo]
 
-[gitlogo]: https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png "Git Logo"
+[gitlogo]: https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png
+
 
 |Action|Explanation|Frequency of use|Command line git bash command|
 |---:|:---:|---|---|
